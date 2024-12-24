@@ -1,5 +1,0 @@
-README.md
-main.ipynb
-main.sh
-requirements
-test_script.ipynb

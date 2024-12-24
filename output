@@ -1,0 +1,10 @@
+15839:M 22 Dec 2024 00:47:05.593 * 100 changes in 300 seconds. Saving...
+15839:M 22 Dec 2024 00:47:05.598 * Background saving started by pid 27471
+27471:C 22 Dec 2024 00:47:05.644 * DB saved on disk
+27471:C 22 Dec 2024 00:47:05.645 * Fork CoW for RDB: current 0 MB, peak 0 MB, average 0 MB
+15839:M 22 Dec 2024 00:47:05.700 * Background saving terminated with success
+15839:M 22 Dec 2024 01:47:06.059 * 1 changes in 3600 seconds. Saving...
+15839:M 22 Dec 2024 01:47:06.062 * Background saving started by pid 30875
+30875:C 22 Dec 2024 01:47:06.104 * DB saved on disk
+30875:C 22 Dec 2024 01:47:06.105 * Fork CoW for RDB: current 0 MB, peak 0 MB, average 0 MB
+15839:M 22 Dec 2024 01:47:06.166 * Background saving terminated with success
